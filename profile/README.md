@@ -7,7 +7,7 @@
 * Projeto para desenvolver uma aplicação mobile para auxiliar no acompanhamento do quadro de saúde infantil
 * Vacinas, Medidas Antropométricas, Desenvolvimento cognitivo, linguístico, motor e social e Saúde Bucal
 
-## Tecnologias
+## Tecnologias usadas no projeto
 
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="65" width="65"/>
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"    />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"  /> 
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
 &nbsp;
