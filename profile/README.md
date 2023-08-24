@@ -2,7 +2,7 @@
 
 ------
 
-# Projeto Engenharia de software 2023.1 , Cardeneta Infantil CadKis <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="58" height="58"/>
+# Projeto Engenharia de software 2023.1 , Cardeneta de Vacinação Infantil (CadKids) <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="58" height="58"/>
 
 * Projeto para desenvolver uma aplicação mobile para auxiliar no acompanhamento do quadro de saúde infantil
 * Vacinas, Medidas Antropométricas, Desenvolvimento cognitivo, linguístico, motor e social e Saúde Bucal
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"  /> 
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 </div>
 
 &nbsp;
