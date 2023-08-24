@@ -3,7 +3,7 @@
 # Projeto Engenharia de software 2023.1 , Cardeneta Infantil CadKis <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="58" height="58"/>  
 
 * Projeto para desenvolver uma aplicação mobile para auxiliar no acompanhamento do quadro de saúde infantil.
-/ Vacinas, Medidas Antropométricas, Desenvolvimento cognitivo, linguístico, motor e social e Saúde Bucal.
+* Vacinas, Medidas Antropométricas, Desenvolvimento cognitivo, linguístico, motor e social e Saúde Bucal.
 
 <!--
 
