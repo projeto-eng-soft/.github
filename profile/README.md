@@ -21,7 +21,7 @@
 &nbsp;
 &nbsp;
 
-### Promessas ou Iludindo?
+### Promessas ou Iludindo?  bolsa? não sei palrear 
 
 ![a](https://user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif)
 
