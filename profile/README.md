@@ -45,15 +45,6 @@
 &nbsp;
 
 
-
-### Promessas ou Iludindo?  bolsa? não sei palrear 
-
-![a](https://user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif)
-
-
-![a](https://user-images.githubusercontent.com/74038190/240825321-fe8225a5-f084-45cb-9a28-a0c2c8634872.gif)
-<!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
